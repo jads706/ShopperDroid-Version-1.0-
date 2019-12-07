@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='ShopperDroid(Version 1.0)'
